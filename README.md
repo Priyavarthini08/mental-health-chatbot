@@ -29,6 +29,8 @@ The data is stored in the database and it is retrieved as and when required.
 Since this chatbot is available 24*7, medications can be provided in case of an
 emergency or an unfavourable situation. It is a reliable source of medical information.
 
+<img width="905" alt="Screenshot 2024-07-30 at 5 02 42 PM" src="https://github.com/user-attachments/assets/afbd48f4-7ab8-475a-9060-ab603a1633fd">
+
 # Future Work
 The future scope of the project could be an AI-based healthcare chatbot integrated
 with wearable devices that could monitor various biometric data, such as heart
